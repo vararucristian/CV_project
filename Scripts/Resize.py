@@ -1,7 +1,7 @@
 import cv2
 import os
 path = '../Images/Training/board'
-resized_path = '../Images/Training/resized_board'
+resized_path = '../Images/Training/board'
 
 for root, dir, files in os.walk(path):
     for file in files:
