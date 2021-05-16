@@ -1,4 +1,4 @@
-import cv2
+from cv2 import cv2
 import os
 path = '../Images/Training/board'
 resized_path = '../Images/Training/board'
